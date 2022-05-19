@@ -1,5 +1,5 @@
 {
-    "name": "microbit",
+    "name": "robots-car",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -23,5 +23,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "tsprj"
 }
